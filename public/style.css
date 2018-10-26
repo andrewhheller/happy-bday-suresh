@@ -1,9 +1,10 @@
 body {
-  background-color: darkgray
+  background-color: darkgray;
+  background-image: url('matrix.jpg')
 }
 
 .title {
-  color: blue;
+  color: lightgray;
   text-align: center;
   font-family: Verdana;
 }
