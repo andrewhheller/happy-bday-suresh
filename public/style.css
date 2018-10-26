@@ -1,0 +1,14 @@
+body {
+  background-color: darkgray
+}
+
+.title {
+  color: blue;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.grid-container {
+  display: grid;
+  justify-content: space-around;
+}
